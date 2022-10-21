@@ -8,7 +8,7 @@
 - *Seda Sensoy*
 
 ### Protocol
-> Vehicle-to-Vehicle (V2V) Communications is used for platooning. V2V augments other on-board sensors like radar and cameras by delivering instantaneous status updates
+> __Vehicle-to-Vehicle (V2V)__ Communications is used for platooning. V2V augments other on-board sensors like radar and cameras by delivering instantaneous status updates
 of vehicles outside line-of-sight. When compared to traditional adaptive cruise control (ACC) solutions exclusively based on radar, this increases the string stability
 of the system of vehicles traveling together.
 
