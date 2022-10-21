@@ -35,3 +35,8 @@
 > vehicles. The rate is imposed by safety requirements in the worst communication loss scenario. All vehicles automatically switch to autonomous mode. Each vehicle
 > begins decreasing the value of their speed with the maximum deceleration rate. So the vehicles behind the decelerating vehicle react exactly as if there were a
 > communication even without knowing about the hard braking
+
+
+### How can the distance to the precedence truck be guaranteed
+> 
+
