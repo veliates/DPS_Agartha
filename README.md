@@ -38,5 +38,6 @@
 
 
 ### How can the distance to the precedence truck be guaranteed
-> 
+> Adaptive cruise control is an available cruise control advanced driver-assistance system for road vehicles that automatically adjusts the vehicle speed to maintain a safe distance from vehicles ahead
+>
 
