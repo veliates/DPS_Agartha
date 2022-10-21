@@ -22,6 +22,7 @@
 - __Acceleration__
 - __GPS Coordinates__
 - __Blind Spot Monitoring__
+- __Angle of the wheels__
 
 #### Events
 - > __Normal breaking__: This is a common occurrence in thick traffic while approaching a traffic congestion. Because of the traffic jam, the car in front of the platoon gradually slows down.
