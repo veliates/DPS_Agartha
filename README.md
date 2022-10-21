@@ -22,3 +22,9 @@
 - __Gap Distance__
 - __Acceleration__
 - __GPS Coordinates__
+
+#### Events
+- __Normal breaking__: This is a common occurrence in thick traffic while approaching a traffic congestion. Because of the traffic jam, the car in front of the platoon gradually slows down.
+- __Emergency breaking__: The driver may cause full braking (maximum braking) which is an event that shall be handled in the platoon.
+- __Cut-in__: The cut-in item (vehicle, motorbike, or truck) can appear anywhere in the platoon and for any length of time. A cut-out action occurs when the cut-in vehicle exits the platoon. The system's reaction may differ depending on the duration of the cut-in.
+- __Failure of the system__: Each vehicle decreases the value of V separately when a communication loss is detected. To maintain stability the decrease rate must be the same for all vehicles. The rate is imposed by safety requirements in the worst communication loss scenario. All vehicles automatically switch to autonomous mode. Each vehicle begins decreasing the value of their speed with the maximum deceleration rate. So the vehicles behind the decelerating vehicle react exactly as if there were a communication even without knowing about the hard braking.
